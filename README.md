@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wilson-Pedro
-- 👀 I’m interested in HTML, CSS and JavaScript
-- 🌱 I’m currently learning HTML, CSS and JavaScipt
-- 💞️ I’m looking to collaborate on  projetos que envolvam a criação de sites
-- 📫 How to reach me willlson.pedro22@gmail.com
+- 👋 Olá, Eu sou @Wilson-Pedro
+- 👀 Eu estou interessado em HTML, CSS e JavaScript
+- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
+- 💞️ Espero poder colaborar em projetos que envolvam essas tecnologias
+- 📫 Contato: willlson.pedro22@gmail.com
 - 🇧🇷 - Brazil
 
 <!---
