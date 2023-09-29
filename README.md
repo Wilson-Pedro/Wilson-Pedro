@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou @Wilson-Pedro
-- 👀 Eu estou interessado em HTML, CSS e JavaScript
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
+- 👀 Eu estou interessado na área de ack-end
+- 🌱 Atualmente estou estudando e fazen projetos com Java e Spring
 - 💞️ Espero poder colaborar em projetos que envolvam essas tecnologias
 - 📫 Contato: willlson.pedro22@gmail.com
 - 🇧🇷 - Brazil
