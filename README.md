@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou @Wilson-Pedro
-- 👀 Eu estou interessado na área de ack-end
+- 👀 Eu estou interessado na área de Back-end
 - 🌱 Atualmente estou estudando e fazen projetos com Java e Spring
 - 💞️ Espero poder colaborar em projetos que envolvam essas tecnologias
 - 📫 Contato: willlson.pedro22@gmail.com
