@@ -19,11 +19,11 @@
 </div> <br>
 
 ## Contato:
- willlson.pedro22@gmail.com
+ wilsonpedroneto@gmail.com
 
 ### Últimos Projetos:
+- [xadrez-java](https://github.com/Wilson-Pedro/xadrez-java)
 - [Uber-API](https://github.com/Wilson-Pedro/Uber-API)
-- [sistema-de-ponto-API](https://github.com/Wilson-Pedro/sistema-de-ponto-API)
 - [Desafio-Back-end-PicPay](https://github.com/Wilson-Pedro/Desafio-Back-end-PicPay)
 
 
