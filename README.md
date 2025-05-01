@@ -22,9 +22,9 @@
  wilsonpedroneto@gmail.com
 
 ### Últimos Projetos:
+- [NovelsBR](https://github.com/Wilson-Pedro/novelbr)
 - [xadrez-java](https://github.com/Wilson-Pedro/xadrez-java)
 - [Uber-API](https://github.com/Wilson-Pedro/Uber-API)
-- [Desafio-Back-end-PicPay](https://github.com/Wilson-Pedro/Desafio-Back-end-PicPay)
 
 
 <br>
