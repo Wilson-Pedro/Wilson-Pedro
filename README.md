@@ -1,4 +1,4 @@
-## Olá! Eu sou o Wilson Pedro 🖐️
+## Olá! Eu sou Wilson Pedro 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-pedro-976333226/)
 
@@ -16,11 +16,11 @@
 ## Meu Portfólio.
 
 <div style="text-align:justify">
-    Com entusiasmo e dedicação, compartilho meu portfólio Java enquanto busco oportunidades empolgantes no mercado. Meu trabalho abrange o desenvolvimento de soluções empresariais e programação orientada a objetos. Cada projeto reflete meu compromisso com a excelência e a busca constante por desafios inovadores. Estou ansioso para contribuir com minha experiência e paixão pelo Java em uma equipe talentosa. Vamos criar juntos soluções de software de alto impacto. 😁
+    Com entusiasmo e dedicação, compartilho meu portfólio enquanto busco oportunidades empolgantes no mercado. Meu trabalho abrange o desenvolvimento de soluções empresariais e programação orientada a objetos. Cada projeto reflete meu compromisso com a excelência e a busca constante por desafios inovadores. Estou ansioso para contribuir com minha experiência e paixão pelo Java em uma equipe talentosa. Vamos criar juntos soluções de software de alto impacto. 😁
 </div> <br>
 
 ## Contato:
- wilsonpedroneto@gmail.com
+ wilsonpedrocostaneto22@gmail.com
 
 ### Últimos Projetos:
 - [NovelsBR](https://github.com/Wilson-Pedro/novelbr)
